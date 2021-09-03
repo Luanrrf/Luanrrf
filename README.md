@@ -1,7 +1,8 @@
 ### Olá, eu sou o Luan 👋
 
 - 🔭 Hoje estou trabalhando na parte de desenvolvimento Web da Fábrica de Software do CEFET (Nova Friburgo)
-- 🌱 Estou estudando html/css/bootstrap
+- 🌱 Estou no momento estudando bootstrap
+- 👔 Conhecimentos em C, Python e linguagens Web (HTML/CSS/Bootstrap)
 
 <div>
   <a href="https://github.com/Luanrrf">
