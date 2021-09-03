@@ -19,13 +19,12 @@
   
   ##
   
-  <div> 
-  <a href="https://www.instagram.com/luanrrf/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>    
- <a href="https://discord.gg/x5Hnf6ME" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsCQfqkxhZGNhFKhMjrHKCXbbJtWKCxDDVZQShqnxGTtwxWwdflfNcVCLvXmqDDrXdThZHfG"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luanrrf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
-  <a href="https://api.whatsapp.com/send?phone=5522999233144&text=Sauda%C3%A7%C3%B5es%2C%20conheci%20seu%20contato%20atrav%C3%A9s%20do%20Github" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>     
-  <a href="https://www.linkedin.com/in/luanrrf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <div>  
+  <a href="https://www.linkedin.com/in/luanrrf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href = "https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsCQfqkxhZGNhFKhMjrHKCXbbJtWKCxDDVZQShqnxGTtwxWwdflfNcVCLvXmqDDrXdThZHfG"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>    
+  <a href="https://api.whatsapp.com/send?phone=5522999233144&text=Sauda%C3%A7%C3%B5es%2C%20conheci%20seu%20contato%20atrav%C3%A9s%20do%20Github" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/x5Hnf6ME" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/luanrrf/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>   
 
   ![Snake animation](https://github.com/Luanrrf/Luanrrf/blob/output/github-contribution-grid-snake.svg)
  
