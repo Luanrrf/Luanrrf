@@ -1,7 +1,7 @@
 ### Olá, eu sou o Luan 👋
 
 - 🔭 Hoje estou trabalhando na parte de desenvolvimento Web da Fábrica de Software do CEFET (Nova Friburgo)
-- 🌱 Estou no momento estudando bootstrap
+- 🌱 Estou no momento estudando JavaScript
 - 🎓 Conhecimentos em C, Python e linguagens Web (HTML/CSS/Bootstrap)
 - 👔 Busco oportunidades na área de desenvolvimento (preferência: Back-end)
 
