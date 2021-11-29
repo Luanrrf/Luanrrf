@@ -11,9 +11,10 @@ body{
 
 #nome{
     text-align: center;
+    margin: 20px;
 }
 
 #intro{
-    text-align: "center";
-    align-self:center;
+    text-align:center;
+    margin: 20px 0;
 }
