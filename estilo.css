@@ -12,3 +12,8 @@ body{
 #nome{
     text-align: center;
 }
+
+#intro{
+    text-align: "center";
+    align-self:center;
+}
