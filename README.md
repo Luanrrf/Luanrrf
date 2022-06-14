@@ -2,7 +2,7 @@
 
 - 🔭 Hoje estou trabalhando na parte de desenvolvimento Web da Fábrica de Software do CEFET (Nova Friburgo)
 - 🌱 Estou no momento estudando JavaScript
-- 🎓 Conhecimentos em C, Python e linguagens Web (HTML/CSS/Bootstrap)
+- 🎓 Conhecimentos em C, Python e linguagens Web (HTML/CSS/Bootstrap/Vtex Cms/Vtex IO/TypeScript/React)
 - 👔 Busco oportunidades na área de desenvolvimento (preferência: Back-end)
 
 <div>
