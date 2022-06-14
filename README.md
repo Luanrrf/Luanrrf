@@ -1,9 +1,10 @@
 ### Olá, eu sou o Luan 👋
 
-- 🔭 Hoje estou trabalhando na parte de desenvolvimento Web da Fábrica de Software do CEFET (Nova Friburgo)
+- 🔭 Trabalho hoje na empresa M3 como desenvolvedor Web
 - 🌱 Estou no momento estudando JavaScript
 - 🎓 Conhecimentos em C, Python e linguagens Web (HTML/CSS/Bootstrap/Vtex Cms/Vtex IO/TypeScript/React)
 - 👔 Busco oportunidades na área de desenvolvimento (preferência: Back-end)
+- :factory: Trabalhei na parte de desenvolvimento Web da Fábrica de Software do CEFET (Nova Friburgo)
 
 <div>
   <a href="https://github.com/Luanrrf">
